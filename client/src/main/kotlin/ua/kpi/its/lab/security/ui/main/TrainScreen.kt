@@ -1,5 +1,6 @@
 package ua.kpi.its.lab.security.ui.main
 
+import TrainDialog
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
@@ -174,4 +175,3 @@ fun TrainScreen(
         }
     }
 }
-
